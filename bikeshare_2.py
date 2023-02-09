@@ -110,7 +110,7 @@ def user_stats(df):
 
     # Display counts of gender
 
-
+    # we have to display the following
     # Display earliest, most recent, and most common year of birth
 
 
