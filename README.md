@@ -16,3 +16,5 @@ we use python progrmming language.
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### about program
+we analysis data by using python
