@@ -110,7 +110,7 @@ def user_stats(df):
 
     # Display counts of gender
 
-
+    # we have to display the following
     # Display earliest, most recent, and most common year of birth
 
 
@@ -128,8 +128,8 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        restart = input('\nWould you like to restart? Enter y or n.\n')
+        if restart.lower() != 'y':
             break
 
 
